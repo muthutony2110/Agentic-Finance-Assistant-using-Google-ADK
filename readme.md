@@ -163,4 +163,3 @@ AI & Machine Learning Engineer | Data Analyst
 This project is intended for learning and experimentation with agentic AI using Google ADK.
 
 ```
-
