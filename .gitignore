@@ -1,9 +1,21 @@
-# environment variables
+# Environment variables
 .env
 
-# python
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
 
-# virtual env
+# Virtual environments
 venv/
+.venv/
+
+# ADK runtime files
+.adk/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
